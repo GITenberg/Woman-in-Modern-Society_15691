@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6199'
     url: http://www.gutenberg.org/2009/agents/6199
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15691#Woman-in-Modern-Society
 gutenberg_issued: '2005-04-23'
 gutenberg_type: Text
 identifiers:
