@@ -1,0 +1,28 @@
+_repo: Woman-in-Modern-Society_15691
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barnes, Earl
+    birthdate: 1861
+    deathdate: 1935
+    gutenberg_agent_id: '6199'
+    url: http://www.gutenberg.org/2009/agents/6199
+description: Cover -- Contents.
+gutenberg_issued: '2005-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15691'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Social and moral questions'
+- !lcc 'JK'
+- !lcsh 'Women in politics -- United States'
+- !lcsh 'Women -- Employment -- United States'
+title: Woman in Modern Society
+url: http://www.gutenberg.org/ebooks/15691
